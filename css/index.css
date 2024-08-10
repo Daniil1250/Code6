@@ -1,3 +1,13 @@
+html, body {
+    margin: 0;
+}
+
+.TopHeader_body {
+    background-image: url(https://yrp.life/uploads/monthly_2024_04/large.FiveM_b2944_GTAProcess2024-04-0307-30-23.png.01b556eb5aef849cce0d5321377e48d5.png);
+    background-size: cover;
+    background-position: center;
+}
+
 .TopHeader_logo {
     width: 100px;
 }
