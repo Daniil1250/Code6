@@ -1,0 +1,1 @@
+Copyright 2019 the Blinker project authors (https://github.com/supertype-de/Blinker)
